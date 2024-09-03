@@ -56,6 +56,9 @@ body {
   color: white;
   background-color:#2e2f42;
 }
+.head-button {
+  background-color:#2e2f42 ;
+}
 .button {
   background-color: #4d5ae5;
   color: white;
@@ -65,8 +68,8 @@ body {
   letter-spacing: 4%;
   cursor: pointer;
 }
-.button button:hover {
-  color: #404bbf;
+.button:hover {
+  background-color: #404bbf;
 }
 .section-part h2 {
   font-weight: 500;
@@ -160,6 +163,9 @@ body {
   letter-spacing: 2%;
   color: #434455;
   background-color: white;
+}
+footer{
+  background-color: #2e2f42;
 }
 footer p {
   font-weight: 400;
